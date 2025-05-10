@@ -1,5 +1,3 @@
-function greetTea(name) {
-  return `Hello, ${name}! This is a simple Tea OSS test project.`;
-}
-
-module.exports = { greetTea };
+module.exports = function () {
+  return "This is a dummy package for testing Tea Protocol.";
+};

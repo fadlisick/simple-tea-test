@@ -1,0 +1,16 @@
+{
+  "name": "simple-tea-test",
+  "version": "1.0.1",
+  "description": "Dummy NPM package to test Tea OSS indexing and staking flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": ["tea", "oss", "testnet", "airdrop", "dummy"],
+  "author": "fadlisick <fadlisick@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadlisick/simple-tea-test.git"
+  }
+}
